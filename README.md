@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working or take a time to rest
+- 🔭 I’m currently working Capco
 - 📫 How to reach me: matheuswanderley1988@gmail.com
 - ⚡ Fun fact: All tattoed
 
