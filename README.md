@@ -36,4 +36,4 @@
   </a> 
 </div>
 
-![Matheus's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=matheuswanderley&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+![Matheus's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheuswanderley&theme=dark&hide_border=true)
