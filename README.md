@@ -33,6 +33,4 @@
 
 ![Matheus's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheuswanderley&theme=dark&hide_border=true)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=matheuswanderley&theme=dracula)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuswanderley&show_icons=true&theme=dracula)
-
 
