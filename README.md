@@ -1,6 +1,5 @@
 ### Hi there, I'm Matheus! 👋
 
-- 🔭 I’m currently working at Reply
 - 📫 How to reach me: matheuswanderley1988@gmail.com
 - ⚡ Fun fact: All tattooed
 
