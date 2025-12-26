@@ -20,8 +20,19 @@
 ##
 
 
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheuswanderley1988@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusdepaulawanderley/)
+<div>
+  <a href="https://instagram.com/mattwanderley88">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white">
+  </a>
+
+  <a href="mailto:matheuswanderley1988@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/matheusdepaulawanderley/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
+  </a>
+</div>
 
 
 ![Matheus's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheuswanderley&theme=dark&hide_border=true)
